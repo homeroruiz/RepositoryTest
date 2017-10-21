@@ -1,0 +1,41 @@
+body {background-color: #FCFCFC;
+font-family: "Helvetica", Helvetica, sans-serif;
+margin: 0px,
+}
+
+#wrapper {
+	width: 2000px;
+	margin: 0 auto;
+	margin-left: auto;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;}
+
+#header {
+	background: #ffffff;
+	width: 1000px;
+	height: 100px;
+	color: #000000;
+	text-align: center;
+	padding-top: 5px;
+	margin-top: 5px;
+	margin-bottom: 10px; /*GENERAL STYLE OF THE HEADER*/
+	border-radius: 0px 0px 0 0; }
+	
+
+	#nav {
+	background: #FCFCFC;
+	width: 150px;
+	height: 600px;
+	float: left; }
+
+
+	#main {
+	background: #aaaaaa;
+	width: 850px;
+	height: 600px;
+	float: left; }
+
+	#footer {
+
+	}
